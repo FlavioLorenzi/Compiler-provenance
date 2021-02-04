@@ -21,7 +21,7 @@ After each problem we’ll focus on comparing the algorithms used.
 
 
 ## About the file
-@autor:Lorenzi Flavio mat.1662963
+@autor: Lorenzi Flavio 
 
 Scripts in python:
 .binary = binary naive bayes for opt prediction
