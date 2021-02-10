@@ -4,6 +4,8 @@ Machine Learning classifiers, data prediction and multiclass classification
 MACHINE LEARNING (Homework 1)
 KEY WORDS: Naive Bayes, SVM, KNN
 
+![](knn.png) ![](svm.png)
+
 This homework has the goal to understand how classifiers works in machine learning problems and to develop some classifiers to making predictions.
 
 
@@ -21,10 +23,11 @@ After each problem we’ll focus on comparing the algorithms used.
 
 NB: Confusion matrices are computed to visualize the performance of each experiment
 
+
 ## DOC
 [Here](Report.pdf) you can find the report.pdf abot this work
 
-
+![](res.png)
 
 ## About the files
 @autor: Lorenzi Flavio 
