@@ -25,14 +25,16 @@ NB: Confusion matrices are computed to visualize the performance of each experim
 
 
 ## DOC
-[Here](Report.pdf) you can find the report.pdf abot this work
-
+[Here](Report.pdf) you can find the report.pdf abot this work.
 
 
 Final accuracy comparing algorithms:
+
+
 ![](res.png)
 
 
+.
 
 
 ## About the files
